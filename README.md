@@ -11,3 +11,6 @@ As a solution to this, I wanted to develop an application. Thus, shopping will b
 and easier. The application reads the barcode on the product and the product contents 
 appear in the application, and the product features and warnings such as "You should not 
 consume this" appear on the screen within the scope of the user previously marked.
+
+Video of the barcode scaning 
+https://drive.google.com/file/d/1fz3wYUrTUWvOyV7d7jN-yZ5Dkifn7fL5/view?usp=sharing
