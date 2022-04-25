@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "639282444812",
+    "firebase_url": "https://foodscan-461ce-default-rtdb.firebaseio.com",
+    "project_id": "foodscan-461ce",
+    "storage_bucket": "foodscan-461ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639282444812:android:b6ce3ffed0a4b3c28c8c29",
+        "android_client_info": {
+          "package_name": "com.foodscan.foodscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639282444812-76f44vgkpje1c3fill4rrmijam5oojga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwLE4Hd6BvC19s7cJ_cdTNL8v8OzbSHlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639282444812-76f44vgkpje1c3fill4rrmijam5oojga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "639282444812-bljf0tsmvr3j19cr2mar53a9nounbiea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.foodscan.foodscan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
